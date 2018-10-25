@@ -1,0 +1,2 @@
+# kickstater
+intro to github
